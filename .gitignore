@@ -1,0 +1,9 @@
+example.iml
+.idea/
+application/integration/target/
+reports/target/
+reports/example-reports.iml
+application/integration/example-integration.iml
+application/domain/target/
+application/example-aplication.iml
+application/domain/example-domain.iml
